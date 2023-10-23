@@ -8,6 +8,8 @@
 
 *Matriculation number:* 1235052
 
+* *
+
 *First supervisor:* Dr. Udo Klein
 
 *Second supervisor:* M.Sc. Tran Quang Nhu
