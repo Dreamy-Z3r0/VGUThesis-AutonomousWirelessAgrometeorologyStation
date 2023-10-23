@@ -18,4 +18,4 @@
 
 ## Other resources
 + Developement repository: [VGU-WirelessMeteorologyStation](https://github.com/Dreamy-Z3r0/VGU-WirelessMeteorologyStation)
-+ Back-up storage: [Google Drive](https://drive.google.com/drive/folders/1Gzf2XMGtcXnm2hDnnmSfLJve8-1cFSM5?usp=share_link)
++ Back-up location: [Google Drive](https://drive.google.com/drive/folders/1Gzf2XMGtcXnm2hDnnmSfLJve8-1cFSM5?usp=share_link)
