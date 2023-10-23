@@ -2,13 +2,7 @@
 
 # Bachelor Thesis: Design, Implementation, and Characterisation of an Autonomous Wireless Agrometeorology Station
 
-*Author:* Do Nguyen Hoang
-
-*Student ID:* 11374
-
-*Matriculation number:* 1235052
-
-* *
+*Author:* Do Nguyen Hoang (*Student ID:* 11374; *Matriculation number:* 1235052)
 
 *First supervisor:* Dr. Udo Klein
 
