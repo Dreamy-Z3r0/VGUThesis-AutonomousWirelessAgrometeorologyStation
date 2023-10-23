@@ -1,4 +1,4 @@
-![](https://github.com/Dreamy-Z3r0/VGUThesis-AutonomousWirelessAgrometeorologyStation/blob/main/VGU%20logo.gif)    ![](https://github.com/Dreamy-Z3r0/VGUThesis-AutonomousWirelessAgrometeorologyStation/blob/main/Frankfurt%20University%20logo.png)
+![](https://github.com/Dreamy-Z3r0/VGUThesis-AutonomousWirelessAgrometeorologyStation/blob/main/Logos.PNG)
 
 # Bachelor Thesis: Design, Implementation, and Characterisation of an Autonomous Wireless Agrometeorology Station
 
